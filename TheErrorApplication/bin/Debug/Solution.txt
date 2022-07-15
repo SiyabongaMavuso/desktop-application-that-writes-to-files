@@ -1,0 +1,4 @@
+100000#Use the correct control name#Incorrect string#First Year Programming#Files and console#22/04/2021
+100001#Remove semi colon#Object reference not set to an instance of an object#Second Year Programming#Windows forms#22/04/2021
+100002#Convert int to string using .ToString()#Incorrect string#Second Year Programming#Files and forms#22/04/2021
+100003#Check your text file to see if the fields are the size of the specified error#Index is out of the bound of the array#Third Year Programming#Database Programming#22/04/2021
